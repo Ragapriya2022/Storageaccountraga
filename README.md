@@ -1,1 +1,1 @@
-# Storageaccountraga
+# pipeplinestatic
