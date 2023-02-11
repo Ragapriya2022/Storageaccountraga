@@ -1,0 +1,1 @@
+az ad sp create-for-rbac --name storageaccraga --role owner --scopes /subscriptions/f6995460-78d3-4278-a1d6-ea0cd0a6280c --sdk-auth
